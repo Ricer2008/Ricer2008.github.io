@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
     <title>Ricer&apos;s Blog</title>
-    <updated>2021-10-04T05:41:11.742Z</updated>
+    <updated>2021-10-04T10:44:44.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>http://localhost:4000/images/avatar.png</logo>
     <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, Ricer&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[自我介绍]]></title>
+        <id>http://localhost:4000/post/halo/</id>
+        <link href="http://localhost:4000/post/halo/">
+        </link>
+        <updated>2021-10-04T10:42:07.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，我是Ricer，我的爱好比较广泛，包括IT、业余的摄影、文学历史和音乐。这里是我个人的Github博客，平时主要用于分享我的一些知识、经验和感想，以及一些互联网资源。</p>
+]]></content>
+    </entry>
 </feed>
